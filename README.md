@@ -21,7 +21,7 @@ Merancang antarmuka dashboard belajar **MyEdu** dalam tiga tahap: wireframe kons
 ## Tahapan Pengerjaan
 
 1. **Wireframe konsep:** menyusun struktur halaman. Desktop memakai sidebar, konten utama, dan panel tugas. Mobile satu kolom dengan bottom navigation.
-2. **Mini design system:** menetapkan warna teal (`#087F79`), font Inter, skala jarak 4–32 px, radius 8–20 px, serta komponen tombol, filter, badge, progress bar, dan kartu.
+2. **Mini design system:** menetapkan warna dasar, font Inter, skala jarak, radius, serta komponen tombol, filter, badge, progress bar, dan kartu yang akan di terapkan ke dalam rancangan.
 3. **Mockup final:** menerapkan design system ke wireframe, lengkap dengan ilustrasi dan foto materi.
 
 ## Ringkasan
